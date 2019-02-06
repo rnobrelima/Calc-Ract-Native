@@ -1,0 +1,4 @@
+#Wed Feb 06 07:51:55 BRST 2019
+base.0=/home/nobre/Native/Calc-Ract-Native/calculator/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
